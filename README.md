@@ -1,2 +1,2 @@
-# -appScripts
+# appScripts
 Some old Google App Scripts
